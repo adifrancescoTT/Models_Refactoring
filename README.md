@@ -1,3 +1,24 @@
+[![tt-metal CI](https://github.com/tenstorrent/tt-metal/actions/workflows/all-post-commit-workflows.yaml/badge.svg)](https://github.com/tenstorrent/tt-metal/actions/workflows/all-post-commit-workflows.yaml)
+
+<div align="center">
+
+<h1>
+
+[Bounty $](https://github.com/tenstorrent/tt-metal/issues?q=is%3Aissue%20state%3Aopen%20label%3Abounty) | [Buy](https://tenstorrent.com/cards/) | [Install](./INSTALLING.md) | [Discord](https://discord.gg/tvhGzHQwaj) | [Join Us](https://boards.greenhouse.io/tenstorrent/jobs/4155609007)
+
+</h1>
+
+<img src="./docs/source/common/_static/tt_nn_w_logo.png" alt="ttnn logo" height="180"/>
+
+**TT-NN** is a Python & C++ Neural Network OP library.
+
+<h3>
+
+[API Reference](https://docs.tenstorrent.com/tt-metal/latest/ttnn/index.html) | [Model Demos](./models/demos/)
+
+</h3>
+
+</div>
 # Tenstorrent Model Performance Overview
 
 Welcome to Tenstorrent's AI Model Performance Hub. This page provides a high-level overview of our top-performing models across our current and next-generation hardware platforms.
