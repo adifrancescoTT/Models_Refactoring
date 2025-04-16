@@ -19,9 +19,8 @@
 </h3>
 
 </div>
-# Tenstorrent Model Performance Overview
 
-Welcome to Tenstorrent's AI Model Performance Hub. This page provides a high-level overview of our top-performing models across our current and next-generation hardware platforms.
+# Tenstorrent Model Performance Overview
 
 ---
 
