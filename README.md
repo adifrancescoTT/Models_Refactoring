@@ -34,6 +34,25 @@
 
 👉 **For full model support, demos, and performance history, visit [Complete Demos & Metrics](./models/demos)**
 
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Progress</th>
+    <th>Latest</th>
+  </tr>
+  <tr>
+    <td>Mistral 7B</td>
+    <td>
+      <div style="display:flex;gap:3px;">
+        <div style="width:10px;height:20px;background:#ccc;"></div>
+        <div style="width:10px;height:35px;background:#999;"></div>
+        <div style="width:10px;height:50px;background:#333;"></div>
+      </div>
+    </td>
+    <td>53 tok/s</td>
+  </tr>
+</table>
+
 ---
 
 ## 🧠 First Results on **Blackhole** (BH)
