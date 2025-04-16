@@ -8,7 +8,8 @@
 
 </h1>
 
-<img src="./docs/source/common/_static/tt_nn_w_logo.png" alt="ttnn logo" height="180"/>
+
+![tt_nn_w_logo](https://github.com/user-attachments/assets/a67452e7-e310-4c90-9a0c-a823efb20c74)
 
 **TT-NN** is a Python & C++ Neural Network OP library.
 
