@@ -34,23 +34,51 @@
 
 👉 **For full model support, demos, and performance history, visit [Complete Demos & Metrics](./models/demos)**
 
+<h3>🚀 Top 3 Models on Wormhole (WH)</h3>
+
 <table>
-  <tr>
-    <th>Model</th>
-    <th>Progress</th>
-    <th>Latest</th>
-  </tr>
-  <tr>
-    <td>Mistral 7B</td>
-    <td>
-      <div style="display:flex;gap:3px;">
-        <div style="width:10px;height:20px;background:#ccc;"></div>
-        <div style="width:10px;height:35px;background:#999;"></div>
-        <div style="width:10px;height:50px;background:#333;"></div>
-      </div>
-    </td>
-    <td>53 tok/s</td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Model</th>
+      <th>Progress</th>
+      <th align="center">Latest Perf</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>LLaMA 2 70B</b></td>
+      <td>
+        <div style="display:flex;gap:4px;align-items:flex-end;height:60px;">
+          <div style="width:12px;height:25px;background:#bbb;border-radius:2px;"></div>
+          <div style="width:12px;height:35px;background:#888;border-radius:2px;"></div>
+          <div style="width:12px;height:45px;background:#333;border-radius:2px;"></div>
+        </div>
+      </td>
+      <td align="center"><b>29 tok/s</b></td>
+    </tr>
+    <tr>
+      <td><b>Mistral 7B</b></td>
+      <td>
+        <div style="display:flex;gap:4px;align-items:flex-end;height:60px;">
+          <div style="width:12px;height:40px;background:#bbb;border-radius:2px;"></div>
+          <div style="width:12px;height:47px;background:#888;border-radius:2px;"></div>
+          <div style="width:12px;height:53px;background:#333;border-radius:2px;"></div>
+        </div>
+      </td>
+      <td align="center"><b>53 tok/s</b></td>
+    </tr>
+    <tr>
+      <td><b>Stable Diffusion 2</b></td>
+      <td>
+        <div style="display:flex;gap:4px;align-items:flex-end;height:60px;">
+          <div style="width:12px;height:20px;background:#bbb;border-radius:2px;"></div>
+          <div style="width:12px;height:30px;background:#888;border-radius:2px;"></div>
+          <div style="width:12px;height:38px;background:#333;border-radius:2px;"></div>
+        </div>
+      </td>
+      <td align="center"><b>18 img/s</b></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
